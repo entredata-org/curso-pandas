@@ -6,40 +6,47 @@ Ene este curso trataremos de cubrir los aspectos basicos y avanzados de Pandas, 
 ## Requisitos previos
 
 - Conocimientos basicos de Python
+- Conocimientos basicos de Jupyter Notebooks
 - No se requieren conocimientos previos de Pandas
 - Para el curso avanzado se requiere conocimientos basicos de Pandas, por lo que se recomienda tomar el curso basico antes de tomar el curso avanzado
+
+## Requisitos de software
+
+- Python 3.6 o superior
+- Jupyter Notebooks
 
 
 ## Curso basico de Pandas
 
 Este curso es ideal para personas que no tienen conocimientos previos de Pandas y desean aprender a utilizar esta libreria para el analisis de datos.
 
-1. Introducción a Pandas
-   - ¿Qué es Pandas y por qué es importante?
-   - Ventajas de utilizar Pandas en el análisis de datos.
-   - Instalación de Pandas en tu entorno de trabajo.
 
-2. Estructuras de datos en Pandas
+[1. Introducción a Pandas](basico/1_Introduccion_a_Pandas.ipynb)
+   * [1.1. ¿Qué es Pandas?](basico/1_Introduccion_a_Pandas.ipynb#1.1-¿Qué-es-Pandas?)
+   * [1.2. Ventajas de utilizar Pandas en el análisis de datos](basico/1_Introduccion_a_Pandas.ipynb#1.2-Ventajas-de-utilizar-Pandas-en-el-análisis-de-datos)
+   * [1.3. Instalación de Pandas](basico/1_Introduccion_a_Pandas.ipynb#1.3-Instalación-de-Pandas)
+   
+[2. Estructuras de datos en Pandas](basico/2_Estructuras_de_datos_en_Pandas.ipynb)
    - Introducción a las Series de Pandas.
    - Trabajando con DataFrames en Pandas.
    - Diferencias y similitudes entre Series y DataFrames.
 
-3. Importación y exportación de datos
+[3. Importación y exportación de datos](basico/3_Importacion_y_exportacion_de_datos.ipynb)
    - Cargar datos desde diferentes fuentes (CSV, Excel, etc.).
    - Guardar datos en diferentes formatos.
    - Explorar y conocer los datos importados.
 
-4. Exploración y manipulación de datos
+[4. Exploración y manipulación de datos](basico/4_Exploracion_y_manipulacion_de_datos.ipynb)
    - Filtrar y seleccionar datos específicos.
    - Lidiar con valores faltantes en los conjuntos de datos.
    - Agrupar y resumir datos.
 
-5. Operaciones con Pandas
+[5. Operaciones con Pandas](basico/5_Operaciones_con_Pandas.ipynb)
    - Realizar operaciones aritméticas con DataFrames.
    - Aplicar funciones y operaciones lógicas a los datos.
    - Combinar y unir DataFrames.
 
-6. Análisis de datos
+[6. Análisis de datos](basico/6_Analisis_de_datos.ipynb)
    - Estadísticas descriptivas y resumen de datos.
    - Identificar y manejar valores atípicos.
    - Visualización de datos con Pandas y Matplotlib.
